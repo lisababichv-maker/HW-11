@@ -1,0 +1,7 @@
+.element {
+    width: 350px;               
+    height: 220px;              
+    padding: 15px 10px 20px 10px; 
+    border: 2px dashed rgb(171, 0, 0);    
+    background-color: rgb(124, 240, 124);  
+}
